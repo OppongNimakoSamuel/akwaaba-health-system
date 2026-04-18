@@ -56,6 +56,7 @@ Import SQL file
 Open:
 
 http://localhost/akwaaba
+
 🌐 Live Demo
 
 Hosted on InfinityFree:
